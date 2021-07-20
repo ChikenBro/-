@@ -1,0 +1,2 @@
+JS中的排序 Array的sort实现
+JS中的搜索 indexOf实现
